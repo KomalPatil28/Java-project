@@ -1,6 +1,8 @@
 /*Design an Employee Payroll System using java,implementinjg multiple inheritance with  
 classes for Employee,Salary,and TaxCalculator .The Systemshouls manage employee details
 salary calculations and tax deduction*/
+#in this code we have used the multiple inhertance to keep the record of the employess payroll.
+	
 package chapter6;
 import java.util.Scanner;
 interface Employee {
