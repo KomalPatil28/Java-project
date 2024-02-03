@@ -1,5 +1,7 @@
 /*Write a java program to calculate the average of 4 semesters.Display the average of 
 Sem1,sem2,sem3 and sem4 and the total average of all 4 semesters using single inhertance*/
+#In this code we had used single inheritance to find the average of the semester.
+	
 package chapter6;
 import java.util.Scanner;
 class Semester  {
