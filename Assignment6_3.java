@@ -3,6 +3,7 @@
  * "Manager" and "Engineer"from the base class.Additionally create a class "TeamLead"
  * that inherits from the "Manmager" class.Implement method in each class to display 
  * information about the rrspective type of employee.*/
+#In this code we had gone through the multilevel inheritance.
 package chapter6;
 class emp
 {
